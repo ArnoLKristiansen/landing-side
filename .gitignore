@@ -1,0 +1,12 @@
+__pycache__/
+**/__pycache__/
+.DS_Store
+._*
+.env
+.env.*
+**/data/
+**/backups/
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.log
